@@ -8,3 +8,5 @@ Note that the datasets are not uploaded in this folder because too large. See Ta
 
 
 ## Dependencies of folders and files
+
+There is a folder for dimensionality reduction and a folder for variable selection. The scripts named "Simulation_" in each folder generate the paper results and show the use of the functions. Plots are created at the and of each script. Once specified the path of a dataset, the scripts should be ready to run.   
